@@ -1,2 +1,2 @@
-# thawan-fidelis.github.io
+# thawanfidelis.github.io
 My personal page. :D
