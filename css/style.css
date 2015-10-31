@@ -1048,6 +1048,7 @@
 
 		#main > section > .container {
 			padding: 6em 0 4em 0;
+			min-height: 700px;
 		}
 
 		#main > section:first-child {
